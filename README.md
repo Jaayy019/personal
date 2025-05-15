@@ -25,6 +25,7 @@ BUILD INSTRUCTIONS:
   1. Download the hw11translate2Ascii.asm file
   2. To assemble: nasm -f elf32 -g -F dwarf -o hw11translate2Ascii.o hw11translate2Ascii.asm
   3. To link and load: ld -m elf_i386 -o hw11translate2Ascii hw11translate2Ascii.o
+  4. To run, type "./hw11translate2Ascii"
 
 DESCRIPTION:
 Takes the input buffer provided in the file, and converts each hex pair into ASCII characters, then prints it out to the terminal.
