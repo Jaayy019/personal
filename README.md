@@ -1,5 +1,4 @@
-HW9: INSTRUCTIONS (kept to ensure points are not lost when making directions for HW11)
-# personal
+# HW9: INSTRUCTIONS (kept to ensure points are not lost when making directions for HW11)
 AFFILIATION:
 Jacob Sambor, CMSC 313, 4/19/2025
 
@@ -20,7 +19,7 @@ ADDITIONAL INFORMATION:
 Memory leaks were prevented at all costs.
 
 
-HW11: BUILD INSTRUCTIONS AND DESCRIPTION
+# HW11: BUILD INSTRUCTIONS AND DESCRIPTION
 
 BUILD INSTRUCTIONS:
   1. Download the hw11translate2Ascii.asm file
